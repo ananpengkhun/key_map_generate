@@ -1,8 +1,7 @@
 name: flutter_key_map
-description: A new Flutter package.
+description: generate variable from key of the map.
 version: 0.0.1
-author:
-homepage:
+author: rafa peng
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -12,6 +11,9 @@ dependencies:
   source_gen: ^0.9.6
   flutter:
     sdk: flutter
+  build: ^1.6.2
+  pedantic: ^1.9.2
+  analyzer: ^0.41.2
 
 
 dev_dependencies:

@@ -1,9 +1,9 @@
 import 'dart:async';
 
+
 import 'package:analyzer/dart/element/element.dart';
 import 'package:build/build.dart';
 import 'package:source_gen/source_gen.dart';
-import 'package:flutter_key_map/my_generators.dart';
 
 class KeyMapGenerator extends Generator {
   @override
